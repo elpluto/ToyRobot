@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lm.ToyRobot.Configuration", "Lm.ToyRobot.Configuration\Lm.ToyRobot.Configuration.csproj", "{AF17EA85-DCEE-440B-9CC8-99A9CB44DEA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lm.ToyRobot.Controller", "Lm.ToyRobot.Controller\Lm.ToyRobot.Controller.csproj", "{7ACFD1F5-40E0-4852-AA3E-FD3E4497642C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lm.ToyRobot.Core", "Lm.ToyRobot.Core\Lm.ToyRobot.Core.csproj", "{4A853310-1D8D-406F-B800-A6C7F2AAA3EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lm.ToyRobot.Shell", "Lm.ToyRobot.Shell\Lm.ToyRobot.Shell.csproj", "{13BADC3B-2537-440F-8845-2B374354225E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF17EA85-DCEE-440B-9CC8-99A9CB44DEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF17EA85-DCEE-440B-9CC8-99A9CB44DEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF17EA85-DCEE-440B-9CC8-99A9CB44DEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF17EA85-DCEE-440B-9CC8-99A9CB44DEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACFD1F5-40E0-4852-AA3E-FD3E4497642C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACFD1F5-40E0-4852-AA3E-FD3E4497642C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACFD1F5-40E0-4852-AA3E-FD3E4497642C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACFD1F5-40E0-4852-AA3E-FD3E4497642C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A853310-1D8D-406F-B800-A6C7F2AAA3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A853310-1D8D-406F-B800-A6C7F2AAA3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A853310-1D8D-406F-B800-A6C7F2AAA3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A853310-1D8D-406F-B800-A6C7F2AAA3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BADC3B-2537-440F-8845-2B374354225E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BADC3B-2537-440F-8845-2B374354225E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BADC3B-2537-440F-8845-2B374354225E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BADC3B-2537-440F-8845-2B374354225E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C1225D-E9F6-4E09-9A9D-FA0D8EE1685E}
+	EndGlobalSection
+EndGlobal
